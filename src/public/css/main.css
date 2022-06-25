@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(18, 57, 130);
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
